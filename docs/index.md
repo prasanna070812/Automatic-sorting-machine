@@ -1,10 +1,13 @@
-# Project Documentation
-# 🔧 Automatic Sorting Machine
+# 🚀 Automatic Sorting Machine
 
-## 📖 Documentation
-- [Introduction](docs/introduction.md)
-- [Problem Definition](docs/problem-definition.md)
-- [Conceptual Design](docs/design.md)
-- [Concept Selection](docs/concept-selection.md)
-- [Sprint 1](docs/sprint1.md)
-- [Motor Selection](docs/motor-selection.md)
+## 📖 Project Documentation
+
+Welcome to the complete documentation of the project.
+
+### Sections
+
+- [Problem Definition](problem-definition.md)
+- [Conceptual Design](design.md)
+- [Concept Selection](concept-selection.md)
+- [Sprint 1](sprint1.md)
+- [Motor Selection](motor-selection.md)
